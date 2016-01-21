@@ -10,6 +10,7 @@ public static void main(String args[]) {
 
        String m_userName = "xi";
        String m_password = "Navyseal123";
+       //plz chaneg it to your own mysqlplus username & password.
 
        Connection m_con;
        String createString;
